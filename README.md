@@ -15,7 +15,8 @@ https://www.apachefriends.org/download.html
 ## Installation
 <br>
 
-1.Clone this repository
+1. Install Xampp server
+2. Clone this repository
 ````html
 https://github.com/DipeshDhandha07/Hospital-Management-System.git
 ````
