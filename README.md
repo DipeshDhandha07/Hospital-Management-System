@@ -1,14 +1,14 @@
 # Hospital-Management-System
 
-##Download
+## Download
 <br>
 
-###Xampp
+### Xampp
 ````html
 https://www.apachefriends.org/download.html
 ````
 <br>
-##Installation
+## Installation
 <br>
 1.Clone this repository
 ````html
