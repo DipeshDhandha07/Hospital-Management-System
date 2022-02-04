@@ -1,0 +1,9 @@
+
+**Database Name: hospitalms**
+
+**Admin Login Details**
+
+Username: admin
+Password: admin123
+
+
