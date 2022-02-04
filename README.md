@@ -17,8 +17,7 @@ https://www.apachefriends.org/download.html
 
 1.Clone this repository
 ````html
-
-
+https://github.com/DipeshDhandha07/Hospital-Management-System.git
 ````
 <br>
 
