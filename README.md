@@ -1,6 +1,28 @@
 # Hospital-Management-System
 <br>
 
+### Main Screen
+
+![image](https://github.com/DipeshDhandha07/Hospital-Management-System/assets/55910147/5cd42b12-b3ba-49c5-9438-0d6e359e260f)
+
+### Patient Login Screen
+
+![image](https://github.com/DipeshDhandha07/Hospital-Management-System/assets/55910147/5b5ecf33-e717-489d-b088-c930813586e5)
+
+### Admin Dashboard
+
+![image](https://github.com/DipeshDhandha07/Hospital-Management-System/assets/55910147/9dcd10d8-f048-4f9e-8905-46ec8396bdac)
+
+### Patient Dashboard
+
+![image](https://github.com/DipeshDhandha07/Hospital-Management-System/assets/55910147/28bff161-9c1e-445d-a60b-c986705fcadd)
+
+### Doctor Dashboard
+
+![image](https://github.com/DipeshDhandha07/Hospital-Management-System/assets/55910147/ad9e9c87-4b50-4cf7-a953-3c4afc62926d)
+
+
+
 ## Download
 
 <br>
