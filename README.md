@@ -1,5 +1,5 @@
 # Hospital-Management-System
-This project can book appointment for patient online and doctor can send prescription to patient online. It inlucdes admin, doctors, patients. Project created using xampp, php, mysql, html, css, javascript.
+This project can book appointment for patient online and doctor can send prescription to patient online. It includes admin, doctors, patients. Project created using xampp, php, mysql, html, css, javascript.
 <br>
 
 ### Main Screen
